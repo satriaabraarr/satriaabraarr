@@ -1,4 +1,4 @@
-![Satria Abrar](img/header-new.png)
+![Satria Abrar](img/header.png)
 
 #### 💻 Tech Stack:
 ![My Skills](https://skillicons.dev/icons?i=figma,laravel,js,ts,html,css,nextjs,flutter,mysql)

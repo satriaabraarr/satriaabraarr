@@ -4,7 +4,7 @@
 ![My Skills](https://skillicons.dev/icons?i=figma,laravel,js,ts,html,css,nextjs,flutter,mysql)
 
 #### 📊 GitHub Stats
-<div align="center">
+<div align="center" style="display: flex; justify-content: space-between; max-width: 100%;">
   <a href="https://github.com/satriaabraarr">
     <img height="165" align="center" src="https://github-readme-stats.vercel.app/api?username=satriaabraarr&show_icons=true&theme=radical&hide_border=true" />
   </a>

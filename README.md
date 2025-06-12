@@ -6,7 +6,7 @@
 #### 📊 GitHub Stats
 <div align="center" style="display: inline-block; width: 100%;">
   <img src="https://github-readme-stats.vercel.app/api?username=satriaabraarr&show_icons=true&theme=radical&hide_border=true&card_width=450" style="width: 49%; display: inline-block; vertical-align: middle;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satriaabraarr&layout=compact&theme=radical&hide_border=true&card_width=450&langs_count=6" style="width: 49%; display: inline-block; vertical-align: middle;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satriaabraarr&layout=compact&theme=radical&hide_border=true&card_width=450&langs_count=8" style="width: 49%; display: inline-block; vertical-align: middle;" />
 </div>
 
 #### 🌐 Socials:

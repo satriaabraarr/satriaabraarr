@@ -4,12 +4,12 @@
 ![My Skills](https://skillicons.dev/icons?i=figma,laravel,js,ts,html,css,nextjs,flutter,mysql)
 
 #### 📊 GitHub Stats
-<div align="center" style="display: flex; justify-content: space-between; max-width: 100%;">
-  <a href="https://github.com/satriaabraarr">
-    <img height="165" align="center" src="https://github-readme-stats.vercel.app/api?username=satriaabraarr&show_icons=true&theme=radical&hide_border=true" />
+<div align="center" style="display: flex; justify-content: center; gap: 10px; width: 100%;">
+  <a href="https://github.com/satriaabraarr" style="flex: 1; max-width: 48%;">
+    <img style="width: 100%; height: 180px; object-fit: contain;" src="https://github-readme-stats.vercel.app/api?username=satriaabraarr&show_icons=true&theme=radical&hide_border=true&card_width=400" />
   </a>
-  <a href="https://github.com/satriaabraarr">
-    <img height="165" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satriaabraarr&layout=compact&theme=radical&hide_border=true" />
+  <a href="https://github.com/satriaabraarr" style="flex: 1; max-width: 48%;">
+    <img style="width: 100%; height: 180px; object-fit: contain;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satriaabraarr&layout=compact&theme=radical&hide_border=true&card_width=400&langs_count=6" />
   </a>
 </div>
 

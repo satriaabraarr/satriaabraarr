@@ -1,4 +1,4 @@
-<img src="img/header.png" alt="Satria Abrar" style="border-radius: 9px; width: 100%; max-width: 800px;"/>
+![Satria Abrar](img/header.png)
 
 #### 💻 Tech Stack:
 ![My Skills](https://skillicons.dev/icons?i=figma,laravel,js,ts,html,css,nextjs,flutter,mysql)

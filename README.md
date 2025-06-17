@@ -1,6 +1,27 @@
 <img src="img/header.png" alt="Satria Abrar" style="border-radius: 9px; width: 100%; max-width: 800px;"/>
 
 #### 🌟 Inspiring Thought
+
+<table>
+  <tr>
+    <td style="
+      background: linear-gradient(to right, #1a1325, #2c1a47);
+      padding: 16px;
+      border-radius: 12px;
+      font-family: monospace;
+      color: #E0D6FF;
+      box-shadow: 0 0 10px rgba(158,119,255,0.2);
+    ">
+      <div><span style="color:#A0E6A0;">$</span> cat /dev/satria</div>
+      <div style="margin: 8px 0; font-style: italic;">
+        "The most disastrous thing that you can ever learn is your first programming language."
+      </div>
+      <div style="text-align:right;"><span style="color:#FF9D9D">//</span> ~Alan Kay</div>
+    </td>
+  </tr>
+</table>
+
+#### 🌟 Inspiring Thought
 <div align="left" style="
   background: linear-gradient(135deg, 
     rgba(23,15,30,0.95) 0%, 
